@@ -54,7 +54,7 @@ async function jeu() {
             alert("Bravo, c'est le bon drapeau !");
             location.reload();
         } else {
-            alert("Nul Germain, NUL NUL NUL !");
+            alert("Ce n'est pas le bon drapeau !");
             chpPays.value = "";
         }
     });
